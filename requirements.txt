@@ -1,0 +1,5 @@
+agent-framework==1.2.2
+python-dotenv
+agent-framework-ag-ui==1.0.0b260507
+agent-framework-foundry-hosting==1.0.0a260507
+gunicorn
